@@ -1,2 +1,2 @@
-# restaurant-page
+# Restaurant page
 Fake restaraunt page
